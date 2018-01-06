@@ -8,7 +8,7 @@
 /* Variables and Data Types */
 /*Console.log each variable and test your code in the terminal using the Node REPL*/
 
-/*i.e.*/
+/*i.e.*/ test
 
 var pet = "sebastian the pug";
 console.log(pet);  // <= this should print out sebastian the pug
@@ -356,3 +356,5 @@ function makeFood(ingredient1, ingredient2, recipeName){
 }
 var foodResult = makeFood("Teri", "Beef", "Teri Beef")
 console.log(foodResult);
+
+//this is the end
